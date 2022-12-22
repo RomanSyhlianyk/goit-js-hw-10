@@ -2,7 +2,7 @@
   "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/RomanSyhlianyk/goit-js-hw-10.git",
+  "homepage": "https://RomanSyhlianyk/goit-js-hw-10.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10.git/"
